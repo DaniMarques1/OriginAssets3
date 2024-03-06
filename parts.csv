@@ -36060,3 +36060,771 @@
 1139,6954980,Plant,Chubby,Hollow,Mint,Serious,Rose Bud,Yam
 1140,11886583,Reptile,Gecko,Small Frill,Green Thorns,Silence Whisper,Incisor,Gila
 1141,9994236,Plant,Cucumber Slice,Seaslug,Pumpkin,Serious,Cactus,Hot Butt
+0,11993105,Mech,Sleepless,Pogona,Sandal,Square Teeth,Babylonia,Nimo
+1,11976753,Bird,Sleepless,Nimo,Anemone,Piranha,Anemone,Nimo
+2,11984960,Aquatic,Sleepless,Nimo,Sponge,Square Teeth,Shoal Star,Nimo
+3,6955078,Aquatic,Gero,Bubblemaker,Goldfish,Lam,Oranda,Koi
+4,11657296,Dusk,Gecko,Rosa,Green Thorns,Tiny Turtle,Scaly Spoon,Gila
+5,11960409,Dawn,Sleepless,Nimo,Sandal,Square Teeth,Oranda,Nimo
+6,5136520,Plant,Confused,Lotus,Pumpkin,Serious,Cactus,Carrot
+7,8749245,Aquatic,Gero,Nimo,Anemone,Lam,Anemone,Nimo
+8,10707142,Beast,Chubby,Pink Cheek,Ronin,Goda,Arco,Cottontail
+9,9142481,Reptile,Clear,Bubblemaker,Snail Shell,Tiny Turtle,Lagging,Cattail
+10,11763923,Reptile,Papi,Inkling,Sponge,Doubletalk,Parasite,Tadpole
+11,11796696,Reptile,Gecko,Small Frill,Green Thorns,Tiny Turtle,Watermelon,Potato Leaf
+12,11747556,Bug,Papi,Inkling,Garish Worm,Doubletalk,Watermelon,Tadpole
+13,9822445,Aquatic,Clear,Tiny Fan,Goldfish,Cute Bunny,Arco,Nimo
+14,11165933,Reptile,Scar,Pogona,Indian Star,Kotaro,Scaly Spoon,Tiny Dino
+15,11960563,Dawn,Kotaro?,Nimo,Sandal,Piranha,Trump,Nimo
+16,11804928,Dawn,Tricky,Small Frill,Snail Shell,Silence Whisper,Lagging,Nimo
+17,11665684,Beast,Papi,Earwing,Tri Feather,Doubletalk,Wing Horn,Granma's Fan
+18,10387752,Mech,Little Peas,Nut Cracker,Cupid,Nut Cracker,Dual Blade,Nut Cracker
+19,3301675,Bird,Mavis,Rosa,Tri Feather,Hungry Bird,Eggshell,Feather Fan
+20,1524048,Beast,Chubby,Nut Cracker,Ronin,Nut Cracker,Little Branch,Nut Cracker
+21,2818395,Plant,Papi,Lotus,Mint,Serious,Rose Bud,Wall Gecko
+22,11968859,Dawn,Gero,Sidebarb,Anemone,Piranha,Anemone,Nimo
+23,2179431,Beast,Puppy,Nut Cracker,Ronin,Nut Cracker,Imp,Nut Cracker
+24,2122094,Aquatic,Gero,Gill,Sponge,Risky Fish,Shoal Star,Nimo
+25,11698563,Reptile,Gecko,Small Frill,Green Thorns,Square Teeth,Scaly Spoon,Grass Snake
+26,4694414,Plant,Papi,Small Frill,Pumpkin,Serious,Cactus,Yam
+27,11624851,Dusk,Kotaro?,Earwing,Tri Feather,Kotaro,Wing Horn,Granma's Fan
+28,10453398,Aquatic,Clear,Inkling,Anemone,Lam,Anemone,Nimo
+29,11633064,Plant,Mavis,Beetle Spike,Tri Feather,Kotaro,Wing Horn,Cottontail
+30,11698606,Mech,Gecko,Small Frill,Green Thorns,Silence Whisper,Scaly Spoon,Gila
+31,295349,Bird,Mavis,Early Bird,Cupid,Little Owl,Kestrel,Granma's Fan
+32,11936193,Bird,Sleepless,Gill,Sandal,Square Teeth,Babylonia,Nimo
+33,11436503,Reptile,Lucas,Small Frill,Green Thorns,Serious,Scaly Spear,Gila
+34,3178977,Plant,Papi,Hollow,Bidens,Serious,Rose Bud,Cloud
+35,11747811,Mech,Kotaro?,Innocent Lamb,Indian Star,Pincer,Rose Bud,Ant
+36,11952627,Dawn,Robin,Earwing,Tri Feather,Toothless Bite,Trump,Granma's Fan
+37,11592185,Dusk,Robin,Earwing,Tri Feather,Toothless Bite,Wing Horn,Granma's Fan
+38,11870713,Plant,Gecko,Small Frill,Green Thorns,Tiny Turtle,Dual Blade,Cottontail
+39,11977210,Bird,Little Owl,Owl,Tri Feather,Kotaro,Trump,Feather Fan
+40,11821563,Reptile,Papi,Leafy,Tri Spikes,Goda,Bamboo Shoot,Wall Gecko
+41,6619654,Aquatic,Clear,Bubblemaker,Sponge,Risky Fish,Shoal Star,Nimo
+42,11977241,Mech,Sleepless,Nimo,Sandal,Square Teeth,Babylonia,Nimo
+43,1073705,Aquatic,Clear,Nimo,Goldfish,Doubletalk,Strawberry Shortcake,Nimo
+44,11518518,Beast,Topaz,Innocent Lamb,Kingfisher,Zigzag,Dual Blade,Cottontail
+45,11698746,Dawn,Chubby,Earwing,Tri Feather,Hungry Bird,Lagging,Granma's Fan
+46,11756106,Reptile,Gecko,Small Frill,Green Thorns,Tiny Turtle,Watermelon,Grass Snake
+47,10404428,Aquatic,Clear,Nimo,Anemone,Lam,Anemone,Nimo
+48,11682404,Bird,Little Owl,Owl,Tri Feather,Little Owl,Kestrel,Feather Fan
+49,4563565,Reptile,Little Owl,Early Bird,Tri Spikes,Kotaro,Shoal Star,Iguana
+50,3949180,Reptile,Clear,Bubblemaker,Snail Shell,Goda,Lagging,Thorny Caterpillar
+51,11551367,Plant,Cucumber Slice,Lotus,Pumpkin,Silence Whisper,Feather Spear,Hatsune
+52,11993746,Dawn,Sleepless,Nimo,Sandal,Square Teeth,Oranda,Nimo
+53,11633307,Dawn,Gecko,Small Frill,Green Thorns,Tiny Turtle,Scaly Spoon,Gila
+54,11453083,Reptile,Gecko,Small Frill,Green Thorns,Tiny Turtle,Scaly Spoon,Gila
+55,11952796,Aquatic,Sleepless,Nimo,Sandal,Square Teeth,Trump,Nimo
+56,11805346,Dawn,Chubby,Pink Cheek,Jaguar,Kotaro,Dual Blade,Cottontail
+57,11977388,Reptile,Gecko,Friezard,Green Thorns,Silence Whisper,Watermelon,Gila
+58,9528015,Aquatic,Telescope,Nimo,Anemone,Lam,Anemone,Nimo
+59,3367634,Plant,Tricky,Hollow,Shiitake,Serious,Rose Bud,Cattail
+60,11592405,Dusk,Scar,Small Frill,Green Thorns,Tiny Turtle,Scaly Spoon,Gila
+61,3973848,Plant,Confused,Rosa,Bone Sail,Peace Maker,Rose Bud,Tadpole
+62,10953449,Aquatic,Clear,Bubblemaker,Sandal,Piranha,Pocky,Nimo
+63,8479476,Reptile,Gecko,Small Frill,Red Ear,Razor Bite,Kestrel,Tiny Dino
+64,11952893,Bird,Tricky,Earwing,Tri Feather,Kotaro,Wing Horn,Granma's Fan
+65,11952919,Bug,Chubby,Innocent Lamb,Indian Star,Silence Whisper,Rose Bud,Potato Leaf
+66,11911969,Bird,Kotaro?,Earwing,Tri Feather,Hungry Bird,Wing Horn,Hare
+67,4260651,Plant,Confused,Lotus,Pumpkin,Serious,Rose Bud,Cattail
+68,9077567,Aquatic,Sleepless,Tiny Fan,Anemone,Risky Fish,Anemone,Nimo
+69,5522245,Aquatic,Little Peas,Seaslug,Goldfish,Risky Fish,Oranda,Shrimp
+70,5710665,Plant,Confused,Tiny Fan,Scarab,Serious,Beech,Yam
+71,11993938,Mech,Telescope,Tiny Fan,Sponge,Little Owl,Oranda,Nimo
+72,11707219,Reptile,Gecko,Small Frill,Green Thorns,Tiny Turtle,Scaly Spoon,Cottontail
+73,11453277,Reptile,Gecko,Small Frill,Green Thorns,Kotaro,Scaly Spoon,Gila
+74,10609504,Plant,Papi,Lotus,Bidens,Lam,Cactus,Cattail
+75,11903846,Dawn,Cucumber Slice,Tassels,Mint,Silence Whisper,Leaf Bug,The Last One
+76,11936623,Dusk,Kotaro?,Earwing,Sandal,Square Teeth,Babylonia,Nimo
+77,11977588,Plant,Cucumber Slice,Innocent Lamb,Bidens,Silence Whisper,Rose Bud,Cattail
+78,418704,Aquatic,Tricky,Bubblemaker,Hermit,Nut Cracker,Imp,Wall Gecko
+79,11944855,Bird,Kotaro?,Earwing,Tri Feather,Risky Fish,Wing Horn,Granma's Fan
+80,11846584,Plant,Nerdy,Leafy,Buzz Buzz,Toothless Bite,Bamboo Shoot,Shiba
+81,11903928,Reptile,Gecko,Friezard,Green Thorns,Hungry Bird,Rose Bud,Gila
+82,11559892,Reptile,Scar,Small Frill,Green Thorns,Herbivore,Scaly Spoon,Gila
+83,11887591,Reptile,Gecko,Sidebarb,Tri Spikes,Kotaro,Scaly Spear,Grass Snake
+84,8225789,Plant,Papi,Lotus,Pumpkin,Razor Bite,Cactus,Snake Jar
+85,11707389,Aquatic,Topaz,Innocent Lamb,Goldfish,Catfish,Shoal Star,Nimo
+86,10601469,Aquatic,Gero,Inkling,Anemone,Lam,Anemone,Nimo
+87,11953154,Reptile,Gecko,Small Frill,Green Thorns,Tiny Turtle,Scaly Spoon,Gila
+88,9159691,Dusk,Sleepless,Nut Cracker,Ronin,Nut Cracker,Dual Blade,Nut Cracker
+89,10880031,Dusk,Gecko,Pink Cheek,Hermit,Doubletalk,Bumpy,Nimo
+90,10167328,Plant,Cucumber Slice,Innocent Lamb,Bidens,Zigzag,Pocky,Gravel Ant
+91,11781154,Beast,Neo,Inkling,Raven,Doubletalk,Parasite,Tadpole
+92,11609142,Reptile,Topaz,Small Frill,Green Thorns,Kotaro,Scaly Spoon,Tiny Dino
+93,11879492,Reptile,Gecko,Friezard,Green Thorns,Kotaro,Watermelon,Gila
+94,11789392,Beast,Chubby,Earwing,Buzz Buzz,Nut Cracker,Wing Horn,Granma's Fan
+95,11895916,Reptile,Gecko,Sidebarb,Tri Spikes,Tiny Turtle,Scaly Spear,Gila
+96,11920510,Aquatic,Gero,Nimo,Sandal,Toothless Bite,Babylonia,Tiny Dino
+97,11945088,Dawn,Clear,Nimo,Sandal,Piranha,Babylonia,Nimo
+98,3556480,Beast,Zeal,Nut Cracker,Ronin,Nut Cracker,Little Branch,Nut Cracker
+99,11707520,Dusk,Kotaro?,Earwing,Tri Feather,Kotaro,Wing Horn,Granma's Fan
+100,435333,Beast,Zeal,Nut Cracker,Ronin,Nut Cracker,Imp,Nut Cracker
+101,11961487,Bird,Kotaro?,Earwing,Tri Feather,Kotaro,Wing Horn,Ranchu
+102,5710991,Aquatic,Telescope,Nimo,Perch,Risky Fish,Babylonia,Nimo
+103,11904159,Beast,Chubby,Small Frill,Green Thorns,Razor Bite,Dual Blade,Iguana
+104,11822243,Plant,Little Owl,Owl,Tri Feather,Little Owl,Feather Spear,Feather Fan
+105,11986099,Dawn,Sleepless,Nimo,Sandal,Cute Bunny,Oranda,Nimo
+106,427197,Beast,Chubby,Nut Cracker,Ronin,Goda,Imp,Iguana
+107,10347718,Beast,Gero,Risky Bird,Ronin,Nut Cracker,Imp,Nut Cracker
+108,11904202,Aquatic,Sleepless,Nimo,Sandal,Square Teeth,Babylonia,Nimo
+109,11830476,Plant,Confused,Leafy,Anemone,Serious,Bamboo Shoot,Shrimp
+110,11461837,Reptile,Gecko,Small Frill,Green Thorns,Tiny Turtle,Scaly Spoon,Yam
+111,11625676,Aquatic,Mavis,Earwing,Tri Feather,Axie Kiss,Wing Horn,Granma's Fan
+112,11748575,Mech,Tricky,Innocent Lamb,Timber,Pincer,Leaf Bug,Ant
+113,11658484,Reptile,Tricky,Innocent Lamb,Green Thorns,Doubletalk,Scaly Spear,Gila
+114,11658496,Plant,Neo,Rosa,Watering Can,Herbivore,Rose Bud,Hatsune
+115,1910019,Aquatic,Blossom,Nimo,Goldfish,Kotaro,Cactus,Nimo
+116,11945221,Reptile,Gecko,Friezard,Green Thorns,Tiny Turtle,Oranda,Gila
+117,11797769,Beast,Chubby,Belieber,Buzz Buzz,Mosquito,Dual Blade,Yam
+118,8078605,Reptile,Clear,Small Frill,Snail Shell,Tiny Turtle,Lagging,Thorny Caterpillar
+119,11937050,Mech,Chubby,Early Bird,Bidens,Axie Kiss,Dual Blade,Cottontail
+120,11896090,Reptile,Gecko,Small Frill,Green Thorns,Silence Whisper,Scaly Spear,Gila
+121,328997,Beast,Chubby,Nut Cracker,Ronin,Nut Cracker,Pliers,Nut Cracker
+122,11683115,Bird,Kotaro?,Earwing,Tri Feather,Doubletalk,Wing Horn,Granma's Fan
+123,894258,Beast,Chubby,Nut Cracker,Ronin,Nut Cracker,Imp,Nut Cracker
+124,9676119,Plant,Little Owl,Seaslug,Bone Sail,Zigzag,Leaf Bug,Hot Butt
+125,11986268,Aquatic,Puppy,Nimo,Sandal,Square Teeth,Babylonia,Nimo
+126,11568481,Aquatic,Mavis,Earwing,Tri Feather,Little Owl,Kestrel,Granma's Fan
+127,8324452,Aquatic,Chubby,Gill,Goldfish,Serious,Wing Horn,Koi
+128,11838820,Plant,Kotaro?,Leafy,Pumpkin,Risky Fish,Bamboo Shoot,Shrimp
+129,11707750,Reptile,Gero,Small Frill,Green Thorns,Axie Kiss,Scaly Spoon,Potato Leaf
+130,11969900,Reptile,Gecko,Friezard,Tri Spikes,Kotaro,Cerastes,Tiny Dino
+131,11568500,Plant,Gecko,Innocent Lamb,Ronin,Serious,Cactus,Cottontail
+132,10356085,Aquatic,Gero,Seaslug,Anemone,Goda,Anemone,Nimo
+133,11969930,Bird,Lucas,Earwing,Tri Feather,Kotaro,Wing Horn,Cottontail
+134,11617696,Dusk,Gecko,Small Frill,Green Thorns,Tiny Turtle,Scaly Spoon,Gila
+135,11601313,Reptile,Gecko,Lotus,Green Thorns,Silence Whisper,Kestrel,Tiny Dino
+136,11560359,Beast,Chubby,Innocent Lamb,Jaguar,Confident,Little Branch,Granma's Fan
+137,11707823,Reptile,Puppy,Small Frill,Green Thorns,Kotaro,Scaly Spear,Granma's Fan
+138,5039538,Reptile,Robin,Nyan,Snail Shell,Tiny Turtle,Lagging,Thorny Caterpillar
+139,7112169,Dusk,Clear,Bubblemaker,Snail Shell,Tiny Turtle,Lagging,Thorny Caterpillar
+140,11494919,Aquatic,Gero,Earwing,Tri Feather,Herbivore,Wing Horn,Granma's Fan
+141,11945484,Aquatic,Little Owl,Owl,Tri Feather,Little Owl,Trump,Feather Fan
+142,11830826,Reptile,Chubby,Small Frill,Green Thorns,Razor Bite,Dual Blade,Gila
+143,11798062,Bug,Neo,Inkling,Garish Worm,Doubletalk,Parasite,Tadpole
+144,11847243,Dawn,Lucas,Nimo,Sponge,Square Teeth,Oranda,Ranchu
+145,11953770,Mech,Little Peas,Zen,Ronin,Confident,Clamshell,Shiba
+146,11667065,Dawn,Mavis,Earwing,Tri Feather,Hungry Bird,Wing Horn,Snake Jar
+147,3696250,Aquatic,Telescope,Gill,Goldfish,Silence Whisper,Shoal Star,Nimo
+148,11978365,Aquatic,Kotaro?,Earwing,Tri Feather,Kotaro,Wing Horn,Cottontail
+149,11691665,Beast,Little Peas,Innocent Lamb,Perch,Confident,Little Branch,Cottontail
+150,9119401,Dusk,Mavis,Bubblemaker,Snail Shell,Tiny Turtle,Lagging,Thorny Caterpillar
+151,11896498,Plant,Chubby,Innocent Lamb,Indian Star,Silence Whisper,Rose Bud,Twin Tail
+152,11912890,Dusk,Gecko,Friezard,Green Thorns,Tiny Turtle,Watermelon,Gila
+153,11904704,Aquatic,Sleepless,Seaslug,Anemone,Axie Kiss,Anemone,Nimo
+154,11830975,Reptile,Gecko,Small Frill,Green Thorns,Razor Bite,Watermelon,Gila
+155,1705673,Aquatic,Cucumber Slice,Swirl,Goldfish,Zigzag,Oranda,Cattail
+156,11953902,Dawn,Gero,Seaslug,Anemone,Piranha,Anemone,Nimo
+157,11675375,Reptile,Gecko,Small Frill,Green Thorns,Mosquito,Dual Blade,Yam
+158,1804038,Aquatic,Clear,Bubblemaker,Goldfish,Risky Fish,Oranda,Koi
+159,11618055,Bug,Bookworm,Tassels,Bone Sail,Lam,Leaf Bug,Ant
+160,8832778,Dusk,Clear,Bubblemaker,Garish Worm,Cute Bunny,Lagging,Thorny Caterpillar
+161,4048652,Beast,Chubby,Puppy,Ronin,Nut Cracker,Dual Blade,Nut Cracker
+162,11994896,Beast,Chubby,Earwing,Buzz Buzz,Catfish,Arco,Ranchu
+163,9545488,Dusk,Sleepless,Bubblemaker,Snail Shell,Tiny Turtle,Lagging,Thorny Caterpillar
+164,11986724,Dawn,Sleepless,Nimo,Sandal,Axie Kiss,Babylonia,Nimo
+165,5834537,Aquatic,Gero,Inkling,Sandal,Risky Fish,Oranda,Nimo
+166,11495213,Beast,Chubby,Belieber,Jaguar,Hungry Bird,Imp,Cottontail
+167,5916465,Beast,Zeal,Nyan,Sandal,Kotaro,Dual Blade,Nut Cracker
+168,11986745,Dawn,Sleepless,Nimo,Sandal,Square Teeth,Trump,Nimo
+169,11978579,Bird,Sleepless,Nimo,Sandal,Square Teeth,Babylonia,Nimo
+170,771924,Aquatic,Sleepless,Bubblemaker,Goldfish,Silence Whisper,Oranda,Koi
+171,11978592,Mech,Sleepless,Nimo,Sandal,Square Teeth,Oranda,Nimo
+172,10168179,Bird,Robin,Early Bird,Pigeon Post,Little Owl,Eggshell,Post Fight
+173,2942842,Aquatic,Clear,Tiny Fan,Green Thorns,Piranha,Shoal Star,Koi
+174,11487115,Reptile,Mavis,Small Frill,Raven,Doubletalk,Watermelon,Yam
+175,11995026,Aquatic,Sleepless,Nimo,Anemone,Piranha,Anemone,Nimo
+176,10971051,Plant,Papi,Clover,Sandal,Cute Bunny,Cactus,Cattail
+177,9070516,Dusk,Gecko,Inkling,Anemone,Lam,Anemone,Nimo
+178,9168823,Aquatic,Gero,Inkling,Anemone,Lam,Anemone,Nimo
+179,11954105,Reptile,Gecko,Friezard,Green Thorns,Kotaro,Scaly Spear,Gila
+180,11700172,Bird,Kotaro?,Earwing,Tri Feather,Kotaro,Wing Horn,Granma's Fan
+181,11651036,Bird,Mavis,Earwing,Timber,Toothless Bite,Wing Horn,Granma's Fan
+182,9136093,Dusk,Sleepless,Bubblemaker,Snail Shell,Tiny Turtle,Lagging,Thorny Caterpillar
+183,11937771,Aquatic,Sleepless,Inkling,Sandal,Piranha,Babylonia,Nimo
+184,11667447,Bird,Little Owl,Sidebarb,Tri Feather,Confident,Feather Spear,Feather Fan
+185,8079353,Reptile,Tricky,Innocent Lamb,Tri Spikes,Razor Bite,Dual Blade,Wall Gecko
+186,11913213,Reptile,Gecko,Small Frill,Green Thorns,Razor Bite,Watermelon,Gila
+187,11978759,Bird,Scar,Earwing,Tri Feather,Kotaro,Wing Horn,Ranchu
+188,11487239,Reptile,Gecko,Small Frill,Green Thorns,Kotaro,Scaly Spoon,Wall Gecko
+189,11716633,Dawn,Papi,Earwing,Tri Feather,Kotaro,Wing Horn,Granma's Fan
+190,3549215,Reptile,Mavis,Bubblemaker,Pumpkin,Tiny Turtle,Lagging,Thorny Caterpillar
+191,4065338,Plant,Papi,Owl,Pumpkin,Serious,Rose Bud,Shrimp
+192,11610172,Aquatic,Clear,Small Frill,Goldfish,Risky Fish,Rose Bud,Gila
+193,11749459,Bug,Gecko,Innocent Lamb,Timber,Square Teeth,Bumpy,Nimo
+194,11511904,Reptile,Gecko,Small Frill,Pigeon Post,Tiny Turtle,Cerastes,Yam
+195,11921553,Reptile,Gecko,Small Frill,Green Thorns,Tiny Turtle,Oranda,Gila
+196,11053240,Aquatic,Gero,Curved Spine,Scarab,Risky Fish,Arco,Nimo
+197,9128122,Aquatic,Gero,Nimo,Anemone,Lam,Anemone,Nimo
+198,11962555,Bird,Kotaro?,Earwing,Tri Feather,Kotaro,Wing Horn,Cottontail
+199,9185482,Aquatic,Gero,Nimo,Anemone,Lam,Anemone,Nimo
+200,11905228,Aquatic,Little Owl,Owl,Tri Feather,Little Owl,Trump,Feather Fan
+201,11856097,Mech,Blossom,Leafy,Garish Worm,Zigzag,Bamboo Shoot,Shrimp
+202,9914637,Plant,Robin,Leafy,Pumpkin,Serious,Leaf Bug,Carrot
+203,5187873,Beast,Zeal,Nut Cracker,Ronin,Nut Cracker,Imp,Nut Cracker
+204,11757864,Bug,Neo,Inkling,Garish Worm,Doubletalk,Parasite,Tadpole
+205,9800009,Aquatic,Gero,Inkling,Anemone,Lam,Anemone,Nimo
+206,11938148,Dawn,Tricky,Innocent Lamb,Indian Star,Silence Whisper,Scaly Spoon,Twin Tail
+207,9693551,Aquatic,Clear,Gill,Garish Worm,Risky Fish,Oranda,Shrimp
+208,3246452,Beast,Chubby,Nut Cracker,Ronin,Nut Cracker,Imp,Nut Cracker
+209,10144120,Dusk,Clear,Ear Breathing,Snail Shell,Tiny Turtle,Lagging,Thorny Caterpillar
+210,5851513,Reptile,Clear,Bubblemaker,Snail Shell,Tiny Turtle,Lagging,Thorny Caterpillar
+211,6269304,Beast,Chubby,Nyan,Risky Beast,Goda,Dual Blade,Nut Cracker
+212,11872635,Plant,Clear,Nimo,Goldfish,Tiny Turtle,Cactus,Nimo
+213,6023551,Aquatic,Gero,Nimo,Anemone,Lam,Anemone,Nimo
+214,11528595,Dusk,Gecko,Small Frill,Green Thorns,Silence Whisper,Scaly Spoon,Yam
+215,11610518,Aquatic,Telescope,Gill,Pigeon Post,Catfish,Oranda,Nimo
+216,11774370,Plant,Gecko,Small Frill,Green Thorns,Tiny Turtle,Watermelon,Potato Leaf
+217,10840492,Bird,Mavis,Owl,Pigeon Post,Toothless Bite,Eggshell,Hare
+218,6138289,Beast,Chubby,Nyan,Ronin,Nut Cracker,Imp,Nut Cracker
+219,11897265,Aquatic,Little Owl,Owl,Tri Feather,Little Owl,Trump,Feather Fan
+220,11168182,Dusk,Clear,Tassels,Indian Star,Tiny Turtle,Scaly Spoon,Navaga
+221,11807159,Dusk,Little Owl,Small Frill,Green Thorns,Razor Bite,Scaly Spoon,Gila
+222,3443148,Beast,Sleepless,Tiny Fan,Scarab,Nut Cracker,Dual Blade,Nut Cracker
+223,11954643,Bird,Sleepless,Nimo,Sandal,Axie Kiss,Trump,Nimo
+224,11954661,Bird,Kotaro?,Earwing,Tri Feather,Kotaro,Wing Horn,Cloud
+225,11971053,Bug,Kotaro?,Earwing,Tri Feather,Kotaro,Wing Horn,Granma's Fan
+226,11979254,Dawn,Topaz,Nimo,Goldfish,Kotaro,Cuckoo,Nimo
+227,11839991,Dawn,Tricky,Innocent Lamb,Pumpkin,Silence Whisper,Incisor,Wall Gecko
+228,11954680,Bird,Kotaro?,Earwing,Tri Feather,Kotaro,Wing Horn,Granma's Fan
+229,11610624,Reptile,Gecko,Small Frill,Green Thorns,Tiny Turtle,Scaly Spoon,Yam
+230,11971080,Dusk,Gecko,Rosa,Green Thorns,Tiny Turtle,Scaly Spoon,Potato Leaf
+231,11987470,Bird,Kotaro?,Earwing,Tri Feather,Kotaro,Wing Horn,Cloud
+232,7940625,Aquatic,Telescope,Inkling,Sponge,Risky Fish,Shoal Star,Nimo
+233,11987493,Aquatic,Sleepless,Seaslug,Anemone,Toothless Bite,Anemone,Nimo
+234,11627054,Beast,Chubby,Larva,Ronin,Axie Kiss,Dual Blade,Rice
+235,11790900,Plant,Gecko,Small Frill,Green Thorns,Tiny Turtle,Watermelon,Potato Leaf
+236,1083959,Dusk,Mavis,Clover,Anemone,Hungry Bird,Anemone,Post Fight
+237,9701976,Plant,Papi,Clover,Pumpkin,Serious,Rose Bud,Cattail
+238,4917849,Reptile,Scar,Bubblemaker,Snail Shell,Tiny Turtle,Lagging,Thorny Caterpillar
+239,11774553,Plant,Papi,Leafy,Tri Spikes,Serious,Scaly Spear,Shrimp
+240,5425767,Reptile,Clear,Curved Spine,Snail Shell,Silence Whisper,Lagging,Thorny Caterpillar
+241,11987569,Bird,Kotaro?,Earwing,Tri Feather,Kotaro,Wing Horn,Ranchu
+242,11815538,Dusk,Gecko,Small Frill,Indian Star,Silence Whisper,Scaly Spoon,Gila
+243,11979392,Mech,Sleepless,Nimo,Sandal,Square Teeth,Babylonia,Nimo
+244,526977,Plant,Chubby,Leaf Bug,Shiitake,Zigzag,Beech,Hot Butt
+245,11922056,Reptile,Gecko,Sidebarb,Green Thorns,Risky Fish,Scaly Spear,Gila
+246,11799181,Reptile,Neo,Small Frill,Green Thorns,Razor Bite,Watermelon,Grass Snake
+247,6728342,Aquatic,Clear,Gill,Goldfish,Catfish,Shoal Star,Nimo
+248,9071260,Dusk,Cucumber Slice,Beetle Spike,Tri Feather,Tiny Turtle,Wing Horn,Hot Butt
+249,11692708,Beast,Robin,Earwing,Tri Feather,Pincer,Wing Horn,Ranchu
+250,11725477,Reptile,Papi,Inkling,Garish Worm,Doubletalk,Oranda,Tadpole
+251,10611368,Plant,Confused,Small Frill,Pumpkin,Serious,Leaf Bug,Yam
+252,10070708,Plant,Papi,Rosa,Bidens,Zigzag,Cactus,Hot Butt
+253,11774657,Bug,Topaz,Innocent Lamb,Timber,Square Teeth,Cerastes,Nimo
+254,5753548,Plant,Gecko,Clover,Pumpkin,Serious,Leaf Bug,Yam
+255,11889359,Bug,Kotaro?,Earwing,Tri Feather,Kotaro,Cactus,Shrimp
+256,10054369,Aquatic,Gero,Nimo,Anemone,Lam,Anemone,Nimo
+257,11578086,Beast,Little Peas,Belieber,Ronin,Confident,Little Branch,Shiba
+258,11520749,Reptile,Gecko,Small Frill,Green Thorns,Piranha,Scaly Spoon,Wall Gecko
+259,1305328,Aquatic,Telescope,Bubblemaker,Goldfish,Risky Fish,Shoal Star,Nimo
+260,11668211,Dusk,Papi,Hollow,Turnip,Zigzag,Cactus,Snake Jar
+261,11709173,Bug,Kotaro?,Earwing,Tri Feather,Confident,Wing Horn,Shrimp
+262,11741948,Mech,Kotaro?,Earwing,Tri Feather,Kotaro,Wing Horn,Shrimp
+263,11873048,Bug,Papi,Inkling,Garish Worm,Doubletalk,Parasite,Tadpole
+264,11733788,Reptile,Gecko,Small Frill,Green Thorns,Tiny Turtle,Watermelon,Wall Gecko
+265,9751331,Aquatic,Gero,Inkling,Anemone,Peace Maker,Anemone,Nimo
+266,11979557,Dawn,Sleepless,Nimo,Sandal,Piranha,Trump,Nimo
+267,11987751,Aquatic,Clear,Nimo,Turnip,Lam,Anemone,Nimo
+268,3394346,Aquatic,Clear,Bubblemaker,Goldfish,Risky Fish,Shoal Star,Nimo
+269,11848493,Plant,Blossom,Leafy,Risky Beast,Piranha,Bamboo Shoot,Ranchu
+270,3279671,Aquatic,Telescope,Bubblemaker,Snail Shell,Nut Cracker,Dual Blade,Nimo
+271,11316049,Bug,Tricky,Pogona,Snail Shell,Mosquito,Caterpillars,Twin Tail
+272,9349977,Aquatic,Gero,Nimo,Anemone,Lam,Anemone,Nimo
+273,8506211,Reptile,Blossom,Bubblemaker,Snail Shell,Tiny Turtle,Lagging,Thorny Caterpillar
+274,10865507,Bird,Little Owl,Owl,Pigeon Post,Little Owl,Eggshell,Hare
+275,8268645,Dusk,Clear,Bubblemaker,Garish Worm,Tiny Turtle,Lagging,Thorny Caterpillar
+276,2378594,Bird,Scar,Gill,Cupid,Little Owl,Wing Horn,Granma's Fan
+277,11963242,Reptile,Gecko,Sidebarb,Tri Spikes,Serious,Scaly Spear,Gila
+278,11725692,Reptile,Tricky,Small Frill,Green Thorns,Tiny Turtle,Scaly Spoon,Gila
+279,11938692,Mech,Sleepless,Nimo,Sandal,Piranha,Trump,Nimo
+280,11979657,Reptile,Chubby,Pink Cheek,Cupid,Axie Kiss,Antenna,Iguana
+281,11979659,Mech,Chubby,Pink Cheek,Cupid,Axie Kiss,Dual Blade,Rice
+282,11627407,Reptile,Gecko,Small Frill,Green Thorns,Goda,Bumpy,Gila
+283,9218961,Reptile,Gecko,Hollow,Tri Spikes,Kotaro,Cerastes,Tiny Dino
+284,4270996,Aquatic,Papi,Seaslug,Raven,Risky Fish,Babylonia,Koi
+285,10177442,Aquatic,Gero,Inkling,Anemone,Lam,Anemone,Nimo
+286,11824041,Dusk,Neo,Inkling,Furball,Doubletalk,Shoal Star,Tadpole
+287,11045811,Aquatic,Sleepless,Lotus,Blue Moon,Piranha,Cuckoo,Koi
+288,11783091,Dusk,Neo,Inkling,Raven,Doubletalk,Parasite,Cottontail
+289,1166262,Beast,Chubby,Rosa,Indian Star,Razor Bite,Lagging,Cottontail
+290,11652026,Bug,Clear,Nimo,Perch,Risky Fish,Oranda,Nimo
+291,11873219,Beast,Little Peas,Leafy,Turnip,Confident,Bamboo Shoot,Shrimp
+292,10865605,Aquatic,Chubby,Nimo,Anemone,Goda,Anemone,Nimo
+293,11946976,Plant,Puppy,Innocent Lamb,Bidens,Silence Whisper,Rose Bud,Cattail
+294,11979770,Dawn,Sleepless,Nimo,Sandal,Square Teeth,Oranda,Nimo
+295,1862657,Plant,Confused,Clover,Mint,Zigzag,Lagging,Yam
+296,11947013,Aquatic,Kotaro?,Earwing,Tri Feather,Kotaro,Wing Horn,Cloud
+297,11930634,Bird,Robin,Innocent Lamb,Cupid,Silence Whisper,Wing Horn,Cloud
+298,11742221,Dawn,Kotaro?,Earwing,Tri Feather,Kotaro,Wing Horn,Granma's Fan
+299,11766817,Plant,Lucas,Innocent Lamb,Tri Feather,Axie Kiss,Cactus,Ant
+300,11930673,Reptile,Little Owl,Innocent Lamb,Pumpkin,Silence Whisper,Leaf Bug,Cattail
+301,11889719,Plant,Cucumber Slice,Innocent Lamb,Hermit,Silence Whisper,Cactus,Cattail
+302,1453124,Aquatic,Gero,Nimo,Goldfish,Piranha,Babylonia,Nimo
+303,11979862,Dawn,Sleepless,Nimo,Sandal,Square Teeth,Babylonia,Nimo
+304,11603031,Reptile,Little Peas,Small Frill,Green Thorns,Piranha,Scaly Spoon,Gila
+305,11914354,Aquatic,Sleepless,Nimo,Sandal,Cute Bunny,Babylonia,Nimo
+306,11914362,Reptile,Gecko,Small Frill,Green Thorns,Tiny Turtle,Watermelon,Gravel Ant
+307,11906175,Aquatic,Clear,Nimo,Sponge,Square Teeth,Oranda,Nimo
+308,11816086,Reptile,Gecko,Pogona,Tri Spikes,Kotaro,Scaly Spoon,Tiny Dino
+309,9964705,Aquatic,Gero,Nimo,Goldfish,Piranha,Oranda,Nimo
+310,11906221,Reptile,Gecko,Small Frill,Green Thorns,Kotaro,Scaly Spoon,Gila
+311,8924356,Plant,Blossom,Curved Spine,Pumpkin,Serious,Cactus,Hot Butt
+312,11349228,Reptile,Blossom,Curved Spine,Green Thorns,Tiny Turtle,Cerastes,Yam
+313,11930865,Aquatic,Gero,Risky Bird,Anemone,Goda,Anemone,Nimo
+314,11963639,Beast,Kotaro?,Earwing,Tri Feather,Kotaro,Wing Horn,Twin Tail
+315,11881727,Reptile,Gecko,Sidebarb,Tri Spikes,Kotaro,Scaly Spear,Cottontail
+316,11734283,Bug,Kotaro?,Earwing,Tri Feather,Kotaro,Wing Horn,Granma's Fan
+317,11832587,Plant,Gecko,Small Frill,Green Thorns,Tiny Turtle,Watermelon,Grass Snake
+318,11816206,Reptile,Gecko,Small Frill,Green Thorns,Tiny Turtle,Watermelon,Potato Leaf
+319,11095324,Aquatic,Clear,Bubblemaker,Kingfisher,Lam,Oranda,Koi
+320,11668766,Beast,Mavis,Earwing,Tri Feather,Herbivore,Wing Horn,Granma's Fan
+321,11414821,Mech,Clear,Coca,Ronin,Silence Whisper,Scaly Spear,Cotton Candy
+322,11922734,Reptile,Gecko,Early Bird,Green Thorns,Tiny Turtle,Scaly Spoon,Gila
+323,11554113,Beast,Topaz,Belieber,Ronin,Axie Kiss,Little Branch,Shiba
+324,2215244,Bird,Mavis,Clover,Raven,Lam,Eggshell,The Last One
+325,11971923,Aquatic,Sleepless,Nimo,Sandal,Square Teeth,Babylonia,Nimo
+326,11504986,Reptile,Gecko,Small Frill,Green Thorns,Kotaro,Scaly Spoon,Yam
+327,11873630,Reptile,Gecko,Small Frill,Green Thorns,Tiny Turtle,Watermelon,Potato Leaf
+328,11693413,Reptile,Robin,Small Frill,Timber,Tiny Turtle,Incisor,Gila
+329,11169126,Reptile,Puppy,Pogona,Indian Star,Kotaro,Scaly Spoon,Tiny Dino
+330,11898233,Beast,Kotaro?,Earwing,Tri Feather,Kotaro,Wing Horn,Granma's Fan
+331,11726202,Bug,Bookworm,Lotus,Garish Worm,Cute Bunny,Leaf Bug,Thorny Caterpillar
+332,11857287,Dawn,Confused,Swirl,Snail Shell,Goda,Clamshell,Nimo
+333,3960209,Beast,Chubby,Nyan,Risky Beast,Nut Cracker,Dual Blade,Iguana
+334,11701651,Dusk,Gecko,Small Frill,Green Thorns,Silence Whisper,Scaly Spoon,Grass Snake
+335,11873686,Reptile,Cucumber Slice,Small Frill,Croc,Tiny Turtle,Dual Blade,Gila
+336,9629081,Dusk,Telescope,Bubblemaker,Garish Worm,Tiny Turtle,Lagging,Thorny Caterpillar
+337,11972038,Aquatic,Little Owl,Owl,Tri Feather,Little Owl,Trump,Feather Fan
+338,10603988,Aquatic,Gero,Inkling,Anemone,Risky Fish,Anemone,Nimo
+339,11980258,Mech,Sleepless,Nimo,Anemone,Piranha,Anemone,Nimo
+340,11980264,Plant,Cucumber Slice,Innocent Lamb,Watering Can,Silence Whisper,Arco,Hatsune
+341,8048117,Aquatic,Gero,Nimo,Sponge,Risky Fish,Oranda,Nimo
+342,11554299,Beast,Little Peas,Innocent Lamb,Ronin,Confident,Cactus,Cottontail
+343,11931141,Plant,Cucumber Slice,Innocent Lamb,Bidens,Silence Whisper,Rose Bud,Cattail
+344,11742786,Aquatic,Topaz,Innocent Lamb,Hero,Lam,Shoal Star,Nimo
+345,11914834,Bird,Lucas,Innocent Lamb,Bidens,Confident,Bamboo Shoot,Ant
+346,11497051,Dusk,Gecko,Small Frill,Green Thorns,Doubletalk,Scaly Spoon,Gila
+347,10587739,Plant,Confused,Innocent Lamb,Bidens,Zigzag,Little Branch,Cattail
+348,7073376,Plant,Puppy,Hollow,Pumpkin,Serious,Cactus,Cattail
+349,11841135,Reptile,Gecko,Small Frill,Green Thorns,Tiny Turtle,Scaly Spoon,Potato Leaf
+350,11685486,Bug,Kotaro?,Earwing,Tri Feather,Nut Cracker,Pocky,Koi
+351,11472498,Reptile,Gecko,Small Frill,Green Thorns,Tiny Turtle,Scaly Spoon,Gila
+352,2166391,Beast,Little Peas,Belieber,Jaguar,Goda,Dual Blade,Cottontail
+353,11906680,Plant,Lucas,Leafy,Turnip,Herbivore,Cactus,Snake Jar
+354,10743419,Aquatic,Gero,Inkling,Anemone,Lam,Anemone,Nimo
+355,11841149,Plant,Gecko,Small Frill,Green Thorns,Tiny Turtle,Kestrel,Cottontail
+356,11988608,Bird,Kotaro?,Tassels,Tri Feather,Confident,Wing Horn,Cottontail
+357,9227923,Aquatic,Clear,Nimo,Anemone,Lam,Anemone,Nimo
+358,3182249,Plant,Chubby,Gill,Snail Shell,Doubletalk,Rose Bud,Hot Butt
+359,11980485,Reptile,Papi,Leafy,Buzz Buzz,Doubletalk,Bamboo Shoot,Twin Tail
+360,7319284,Aquatic,Gero,Inkling,Anemone,Piranha,Anemone,Nimo
+361,11964149,Aquatic,Gero,Nimo,Anemone,Lam,Anemone,Nimo
+362,11833088,Reptile,Chubby,Small Frill,Green Thorns,Razor Bite,Dual Blade,Grass Snake
+363,11693839,Reptile,Papi,Small Frill,Green Thorns,Herbivore,Scaly Spoon,Yam
+364,9473820,Plant,Confused,Lotus,Turnip,Serious,Cactus,Carrot
+365,11669277,Bird,Kotaro?,Earwing,Tri Feather,Pincer,Wing Horn,Granma's Fan
+366,11480865,Beast,Little Peas,Nyan,Red Ear,Nut Cracker,Dual Blade,Shiba
+367,5254951,Reptile,Topaz,Bubblemaker,Hermit,Tiny Turtle,Lagging,Thorny Caterpillar
+368,3936058,Aquatic,Sleepless,Bubblemaker,Goldfish,Nut Cracker,Leaf Bug,Koi
+369,7622472,Beast,Chubby,Tiny Fan,Ronin,Nut Cracker,Imp,Nut Cracker
+370,11841359,Plant,Clear,Leafy,Garish Worm,Axie Kiss,Bamboo Shoot,Ant
+371,11890522,Reptile,Scar,Nut Cracker,Green Thorns,Nut Cracker,Clamshell,Gila
+372,3952477,Beast,Chubby,Belieber,Cupid,Hungry Bird,Arco,Ranchu
+373,9604962,Aquatic,Gero,Inkling,Anemone,Mosquito,Anemone,Nimo
+374,10080111,Bird,Confused,Pogona,Turnip,Little Owl,Dual Blade,Shiba
+375,10178433,Plant,Little Owl,Clover,Indian Star,Zigzag,Cactus,Hot Butt
+376,11808653,Reptile,Clear,Small Frill,Green Thorns,Tiny Turtle,Watermelon,Potato Leaf
+377,11644819,Aquatic,Gero,Gill,Sponge,Risky Fish,Cerastes,Nimo
+378,11669399,Dusk,Gecko,Clover,Green Thorns,Kotaro,Oranda,Gila
+379,8974240,Aquatic,Sleepless,Tiny Fan,Anemone,Risky Fish,Anemone,Nimo
+380,10366895,Aquatic,Gero,Nimo,Anemone,Lam,Anemone,Nimo
+381,3690424,Plant,Cucumber Slice,Hollow,Pumpkin,Serious,Cactus,Carrot
+382,11669436,Reptile,Gecko,Small Frill,Green Thorns,Tiny Turtle,Scaly Spoon,Yam
+383,5001154,Beast,Zeal,Nut Cracker,Ronin,Nut Cracker,Imp,Nut Cracker
+384,6172617,Aquatic,Clear,Gill,Goldfish,Catfish,Shoal Star,Nimo
+385,11743179,Reptile,Gecko,Small Frill,Green Thorns,Silence Whisper,Cerastes,Potato Leaf
+386,11972564,Reptile,Gecko,Small Frill,Green Thorns,Silence Whisper,Scaly Spoon,Yam
+387,11489269,Reptile,Tricky,Small Frill,Green Thorns,Tiny Turtle,Lagging,Yam
+388,11841531,Plant,Little Peas,Leafy,Buzz Buzz,Square Teeth,Bamboo Shoot,Cottontail
+389,11948047,Aquatic,Gecko,Bubblemaker,Anemone,Piranha,Anemone,Nimo
+390,11579415,Dusk,Topaz,Curved Spine,Indian Star,Silence Whisper,Scaly Spoon,Wall Gecko
+391,11907096,Aquatic,Confused,Swirl,Goldfish,Cute Bunny,Shoal Star,Nimo
+392,11898938,Reptile,Gecko,Small Frill,Green Thorns,Tiny Turtle,Watermelon,Gila
+393,7499848,Aquatic,Sleepless,Nimo,Anemone,Risky Fish,Anemone,Nimo
+394,11939929,Dawn,Sleepless,Nimo,Sandal,Square Teeth,Babylonia,Nimo
+395,3133543,Beast,Puppy,Hollow,Ronin,Nut Cracker,Bamboo Shoot,Nut Cracker
+396,10260587,Dusk,Gero,Nimo,Anemone,Lam,Anemone,Nimo
+397,1863795,Bug,Papi,Belieber,Raven,Doubletalk,Cerastes,Shiba
+398,11939992,Mech,Clear,Nimo,Sandal,Square Teeth,Babylonia,Nimo
+399,11939999,Dawn,Gero,Nimo,Sandal,Square Teeth,Trump,Nimo
+400,11858087,Plant,Gecko,Small Frill,Green Thorns,Tiny Turtle,Watermelon,Potato Leaf
+401,11636923,Dawn,Robin,Earwing,Tri Feather,Cute Bunny,Wing Horn,Granma's Fan
+402,10719461,Plant,Gecko,Lotus,Bidens,Zigzag,Cactus,Hot Butt
+403,11768044,Bug,Neo,Inkling,Raven,Doubletalk,Anemone,Tadpole
+404,10440946,Aquatic,Clear,Inkling,Anemone,Piranha,Anemone,Nimo
+405,11710711,Dawn,Gecko,Small Frill,Green Thorns,Tiny Turtle,Scaly Spoon,Gila
+406,4354312,Aquatic,Clear,Gill,Goldfish,Catfish,Shoal Star,Nimo
+407,11677970,Bird,Kotaro?,Earwing,Tri Feather,Kotaro,Wing Horn,Granma's Fan
+408,6697243,Beast,Little Peas,Nut Cracker,Ronin,Nut Cracker,Imp,Nut Cracker
+409,11637020,Reptile,Gecko,Small Frill,Green Thorns,Razor Bite,Scaly Spoon,Yam
+410,11931931,Beast,Chubby,Earwing,Balloon,Axie Kiss,Arco,Gerbil
+411,11735345,Dusk,Neo,Inkling,Tri Feather,Doubletalk,Antenna,Tadpole
+412,2150729,Reptile,Chubby,Rosa,Perch,Herbivore,Babylonia,Gila
+413,11858280,Reptile,Chubby,Small Frill,Shiitake,Razor Bite,Scaly Spoon,Cottontail
+414,11907452,Beast,Kotaro?,Inkling,Tri Feather,Kotaro,Wing Horn,Granma's Fan
+415,11743620,Mech,Little Owl,Earwing,Ronin,Kotaro,Wing Horn,Granma's Fan
+416,11604358,Dusk,Gecko,Small Frill,Indian Star,Risky Fish,Leaf Bug,Gila
+417,11907477,Reptile,Gecko,Small Frill,Green Thorns,Tiny Turtle,Watermelon,Nimo
+418,4542884,Aquatic,Gero,Bubblemaker,Perch,Risky Fish,Oranda,Koi
+419,11940262,Bird,Sleepless,Nimo,Sandal,Piranha,Babylonia,Nimo
+420,11973047,Bird,Mavis,Earwing,Tri Feather,Kotaro,Wing Horn,Cloud
+421,11940284,Bird,Sleepless,Nimo,Sandal,Lam,Babylonia,Nimo
+422,3666372,Plant,Papi,Clover,Pumpkin,Serious,Cactus,Hot Butt
+423,11424215,Dusk,Cucumber Slice,Small Frill,Green Thorns,Tiny Turtle,Cerastes,Gila
+424,758234,Aquatic,Telescope,Bubblemaker,Anemone,Herbivore,Babylonia,Nimo
+425,11899371,Mech,Papi,Early Bird,Goldfish,Silence Whisper,Oranda,Ant
+426,11964937,Aquatic,Papi,Nimo,Sandal,Square Teeth,Babylonia,Nimo
+427,11973150,Mech,Kotaro?,Earwing,Tri Feather,Kotaro,Wing Horn,Granma's Fan
+428,11915816,Dawn,Gecko,Leafy,Buzz Buzz,Square Teeth,Bamboo Shoot,Cottontail
+429,11858473,Reptile,Chubby,Small Frill,Green Thorns,Razor Bite,Babylonia,Wall Gecko
+430,5829167,Aquatic,Clear,Nimo,Anemone,Lam,Babylonia,Koi
+431,11817521,Reptile,Gecko,Small Frill,Green Thorns,Tiny Turtle,Watermelon,Cottontail
+432,930383,Aquatic,Clear,Bubblemaker,Sponge,Lam,Oranda,Koi
+433,11801176,Mech,Kotaro?,Earwing,Tri Feather,Kotaro,Wing Horn,Granma's Fan
+434,11809401,Reptile,Gecko,Small Frill,Blue Moon,Tiny Turtle,Watermelon,Potato Leaf
+435,11924147,Mech,Tricky,Innocent Lamb,Timber,Nut Cracker,Scaly Spoon,Ant
+436,3248820,Plant,Confused,Lotus,Pumpkin,Serious,Cactus,Carrot
+437,11776693,Dusk,Blossom,Seaslug,Raven,Doubletalk,Shoal Star,Cottontail
+438,3175092,Aquatic,Clear,Gill,Goldfish,Risky Fish,Shoal Star,Koi
+439,11989710,Reptile,Tricky,Small Frill,Timber,Tiny Turtle,Incisor,Gila
+440,11735759,Bug,Clear,Inkling,Garish Worm,Doubletalk,Babylonia,Tadpole
+441,9892558,Plant,Sleepless,Peace Maker,Bone Sail,Zigzag,Cactus,Ant
+442,11776723,Dusk,Neo,Inkling,Raven,Doubletalk,Shoal Star,Tadpole
+443,9212631,Aquatic,Gero,Gill,Anemone,Lam,Anemone,Nimo
+444,11735772,Dawn,Gecko,Small Frill,Green Thorns,Tiny Turtle,Scaly Spoon,Yam
+445,11981539,Reptile,Chubby,Small Frill,Green Thorns,Razor Bite,Dual Blade,Gila
+446,11932414,Plant,Chubby,Friezard,Green Thorns,Tiny Turtle,Dual Blade,Cottontail
+447,11678469,Dusk,Papi,Inkling,Raven,Doubletalk,Oranda,Cottontail
+448,11973384,Mech,Sleepless,Sidebarb,Sandal,Square Teeth,Babylonia,Nimo
+449,11899664,Reptile,Scar,Leafy,Blue Moon,Kotaro,Bamboo Shoot,Granma's Fan
+450,488214,Aquatic,Gero,Nimo,Anemone,Lam,Anemone,Nimo
+451,11637530,Dawn,Robin,Innocent Lamb,Tri Feather,Kotaro,Wing Horn,Ranchu
+452,11825950,Reptile,Gecko,Small Frill,Green Thorns,Tiny Turtle,Dual Blade,Potato Leaf
+453,11973419,Bird,Sleepless,Nimo,Sandal,Square Teeth,Babylonia,Nimo
+454,9065264,Plant,Papi,Clover,Pumpkin,Zigzag,Cactus,Hot Butt
+455,8819505,Dusk,Zeal,Bubblemaker,Snail Shell,Piranha,Lagging,Thorny Caterpillar
+456,5468989,Plant,Confused,Clover,Shiitake,Zigzag,Beech,Hot Butt
+457,11932497,Reptile,Chubby,Pink Cheek,Cupid,Zigzag,Dual Blade,Ranchu
+458,3289944,Plant,Papi,Clover,Pumpkin,Catfish,Cactus,Carrot
+459,11350873,Reptile,Tricky,Belieber,Green Thorns,Confident,Strawberry Shortcake,Gila
+460,3863388,Reptile,Sleepless,Bubblemaker,Snail Shell,Tiny Turtle,Lagging,Thorny Caterpillar
+461,8360806,Plant,Confused,Innocent Lamb,Pumpkin,Tiny Turtle,Leaf Bug,Cloud
+462,5804904,Plant,Papi,Clover,Tri Feather,Serious,Cactus,Hatsune
+463,11981682,Bug,Clear,Nimo,Sponge,Square Teeth,Oranda,Nimo
+464,10113907,Aquatic,Puppy,Nimo,Anemone,Lam,Anemone,Nimo
+465,11621242,Bird,Robin,Earwing,Tri Feather,Hungry Bird,Wing Horn,Granma's Fan
+466,11899775,Beast,Kotaro?,Earwing,Tri Feather,Little Owl,Wing Horn,Granma's Fan
+467,11981695,Aquatic,Sleepless,Seaslug,Anemone,Doubletalk,Anemone,Nimo
+468,7910286,Bug,Sleepless,Seaslug,Garish Worm,Cute Bunny,Babylonia,Gravel Ant
+469,11973532,Dawn,Sleepless,Nimo,Sandal,Piranha,Babylonia,Nimo
+470,4166577,Reptile,Clear,Bubblemaker,Snail Shell,Tiny Turtle,Lagging,Thorny Caterpillar
+471,7386034,Aquatic,Gero,Nimo,Anemone,Lam,Anemone,Nimo
+472,136118,Aquatic,Cucumber Slice,Leafy,Scarab,Catfish,Umaibo,Carrot
+473,11965376,Dusk,Confused,Swirl,Garish Worm,Kotaro,Bumpy,Nimo
+474,11785156,Plant,Gecko,Small Frill,Green Thorns,Tiny Turtle,Dual Blade,Grass Snake
+475,11981781,Mech,Tricky,Innocent Lamb,Mint,Silence Whisper,Scaly Spoon,Snake Jar
+476,11645924,Dawn,Chubby,Earwing,Tri Feather,Serious,Wing Horn,Hare
+477,11965430,Mech,Scar,Curly,Green Thorns,Silence Whisper,Scaly Spoon,Tiny Dino
+478,11916292,Plant,Gecko,Sidebarb,Tri Spikes,Kotaro,Pocky,Iguana
+479,11891728,Mech,Lucas,Innocent Lamb,Indian Star,Silence Whisper,Cactus,Cattail
+480,6870044,Dusk,Sleepless,Bubblemaker,Snail Shell,Tiny Turtle,Lagging,Thorny Caterpillar
+481,11932706,Dusk,Gecko,Small Frill,Green Thorns,Tiny Turtle,Watermelon,Potato Leaf
+482,11932734,Bird,Sleepless,Nimo,Sandal,Piranha,Babylonia,Nimo
+483,11932744,Mech,Sleepless,Nimo,Sandal,Piranha,Babylonia,Nimo
+484,11932746,Dawn,Sleepless,Nimo,Tri Feather,Square Teeth,Anemone,Nimo
+485,11965519,Mech,Sleepless,Seaslug,Anemone,Piranha,Anemone,Nimo
+486,8565852,Dusk,Clear,Bubblemaker,Snail Shell,Tiny Turtle,Lagging,Thorny Caterpillar
+487,11842654,Reptile,Gecko,Sidebarb,Green Thorns,Tiny Turtle,Scaly Spear,Cottontail
+488,11613285,Bug,Bookworm,Larva,Tri Feather,Axie Kiss,Clamshell,Ant
+489,11834481,Reptile,Neo,Leafy,Tri Spikes,Silence Whisper,Bamboo Shoot,Cottontail
+490,11957365,Aquatic,Sleepless,Seaslug,Spiky Wing,Piranha,Anemone,Nimo
+491,11940986,Beast,Chubby,Earwing,Cupid,Nut Cracker,Arco,Gerbil
+492,11736199,Mech,Gecko,Sidebarb,Green Thorns,Tiny Turtle,Merry,Snake Jar
+493,11850913,Mech,Gero,Tassels,Pumpkin,Pincer,Scaly Spoon,Nimo
+494,11826349,Aquatic,Zeal,Leafy,Hero,Kotaro,Bamboo Shoot,Cloud
+495,11900078,Dawn,Robin,Earwing,Tri Feather,Peace Maker,Wing Horn,Swallow
+496,11941041,Plant,Tricky,Innocent Lamb,Bidens,Silence Whisper,Rose Bud,Cattail
+497,11932858,Aquatic,Sleepless,Seaslug,Sandal,Axie Kiss,Babylonia,Nimo
+498,11736256,Reptile,Gecko,Small Frill,Green Thorns,Zigzag,Scaly Spear,Gila
+499,11580618,Reptile,Topaz,Small Frill,Green Thorns,Silence Whisper,Rose Bud,Yam
+500,6821073,Dusk,Topaz,Bubblemaker,Hermit,Tiny Turtle,Lagging,Ant
+501,11801818,Reptile,Gecko,Innocent Lamb,Green Thorns,Tiny Turtle,Leaf Bug,Potato Leaf
+502,11785447,Reptile,Chubby,Sakura,Tri Feather,Tiny Turtle,Dual Blade,Cottontail
+503,11818217,Aquatic,Topaz,Leafy,Garish Worm,Doubletalk,Bamboo Shoot,Shrimp
+504,11834605,Beast,Little Peas,Leafy,Ronin,Piranha,Bamboo Shoot,Shrimp
+505,11924721,Dusk,Papi,Inkling,Garish Worm,Doubletalk,Caterpillars,Tadpole
+506,11769076,Plant,Gecko,Small Frill,Green Thorns,Tiny Turtle,Scaly Spoon,Potato Leaf
+507,11891961,Beast,Kotaro?,Earwing,Buzz Buzz,Kotaro,Wing Horn,Granma's Fan
+508,11711744,Dusk,Neo,Inkling,Snail Shell,Doubletalk,Shoal Star,Cottontail
+509,11580673,Plant,Little Peas,Belieber,Ronin,Confident,Little Branch,Cottontail
+510,11867395,Reptile,Gecko,Small Frill,Green Thorns,Tiny Turtle,Scaly Spoon,Gila
+511,7058695,Dusk,Telescope,Leaf Bug,Snail Shell,Tiny Turtle,Lagging,Thorny Caterpillar
+512,11965730,Reptile,Gecko,Nyan,Cupid,Axie Kiss,Dual Blade,Iguana
+513,11556133,Beast,Little Peas,Hollow,Ronin,Lam,Eggshell,Cottontail
+514,11752751,Bug,Scar,Inkling,Garish Worm,Doubletalk,Parasite,Tadpole
+515,11842867,Dawn,Tricky,Innocent Lamb,Indian Star,Serious,Oranda,Potato Leaf
+516,11474237,Reptile,Tricky,Curly,Tri Feather,Razor Bite,Pocky,Feather Fan
+517,9180487,Dusk,Chubby,Nyan,Risky Beast,Nut Cracker,Dual Blade,Nut Cracker
+518,11711840,Dusk,Robin,Earwing,Tri Feather,Cute Bunny,Wing Horn,Granma's Fan
+519,11982258,Reptile,Gecko,Nimo,Sponge,Catfish,Cactus,Nimo
+520,1881529,Plant,Papi,Sakura,Snail Shell,Tiny Turtle,Lagging,Fish Snack
+521,11933122,Dawn,Sleepless,Seaslug,Sandal,Doubletalk,Babylonia,Nimo
+522,11703746,Bug,Bookworm,Beetle Spike,Spiky Wing,Toothless Bite,Pliers,Ant
+523,11982298,Dawn,Sleepless,Seaslug,Anemone,Lam,Anemone,Nimo
+524,11924955,Plant,Gecko,Small Frill,Green Thorns,Tiny Turtle,Scaly Spoon,Gila
+525,11777503,Dusk,Neo,Inkling,Raven,Doubletalk,Parasite,Tadpole
+526,11851243,Bug,Neo,Inkling,Garish Worm,Square Teeth,Parasite,Tadpole
+527,11916797,Mech,Kotaro?,Earwing,Tri Feather,Kotaro,Wing Horn,The Last One
+528,11900453,Reptile,Gecko,Small Frill,Green Thorns,Lam,Kestrel,Gila
+529,11949610,Reptile,Gecko,Nimo,Sponge,Mosquito,Incisor,Nimo
+530,11990572,Aquatic,Sleepless,Seaslug,Anemone,Piranha,Anemone,Nimo
+531,11826736,Bug,Topaz,Lotus,Goldfish,Square Teeth,Babylonia,Nimo
+532,11712049,Dawn,Kotaro?,Earwing,Tri Feather,Kotaro,Wing Horn,Granma's Fan
+533,7034433,Dusk,Blossom,Swirl,Snail Shell,Tiny Turtle,Lagging,Thorny Caterpillar
+534,11990600,Aquatic,Sleepless,Risky Bird,Anemone,Piranha,Anemone,Nimo
+535,7386707,Dusk,Neo,Bubblemaker,Snail Shell,Tiny Turtle,Lagging,Thorny Caterpillar
+536,6608487,Aquatic,Gero,Nimo,Anemone,Lam,Anemone,Nimo
+537,628331,Plant,Topaz,Hollow,Shiitake,Serious,Leaf Bug,Yam
+538,11400815,Mech,Confused,Curly,Beach Ball,Lam,Strawberry Ice Cream,Grass Snake
+539,11974283,Beast,Puppy,Zen,Ronin,Confident,Imp,Cottontail
+540,11900575,Reptile,Neo,Leafy,Tri Spikes,Pincer,Scaly Spear,Cottontail
+541,11925175,Mech,Chubby,Pink Cheek,Scarab,Confident,Arco,Cottontail
+542,11826878,Bug,Confused,Swirl,Garish Worm,Risky Fish,Shoal Star,Nimo
+543,11949765,Plant,Confused,Pogona,Sandal,Goda,Bumpy,Ranchu
+544,11876050,Aquatic,Papi,Inkling,Garish Worm,Doubletalk,Parasite,Tadpole
+545,825060,Plant,Papi,Rosa,Scarab,Zigzag,Cactus,Hot Butt
+546,11925223,Mech,Little Peas,Pink Cheek,Scarab,Axie Kiss,Dual Blade,Cottontail
+547,11957995,Dusk,Gecko,Sidebarb,Green Thorns,Kotaro,Scaly Spear,Cottontail
+548,9631491,Beast,Chubby,Nyan,Ronin,Goda,Dual Blade,Rice
+549,10549039,Aquatic,Gero,Ear Breathing,Anemone,Goda,Anemone,Nimo
+550,11310903,Plant,Papi,Sakura,Bidens,Goda,Beech,Cattail
+551,11958076,Dawn,Sleepless,Nimo,Sandal,Square Teeth,Babylonia,Nimo
+552,11859775,Beast,Sleepless,Leafy,Ronin,Confident,Bamboo Shoot,Shrimp
+553,11884369,Reptile,Gecko,Small Frill,Green Thorns,Tiny Turtle,Scaly Spoon,Gila
+554,6109027,Beast,Puppy,Nut Cracker,Ronin,Nut Cracker,Imp,Nut Cracker
+555,11908967,Reptile,Gecko,Small Frill,Green Thorns,Tiny Turtle,Scaly Spoon,Gila
+556,4077445,Beast,Chubby,Nyan,Ronin,Nut Cracker,Imp,Nut Cracker
+557,11802511,Reptile,Gecko,Leafy,Tri Spikes,Tiny Turtle,Scaly Spear,Cottontail
+558,11704240,Bug,Kotaro?,Earwing,Tri Feather,Kotaro,Wing Horn,Granma's Fan
+559,11966385,Dawn,Sleepless,Nimo,Sandal,Piranha,Trump,Nimo
+560,11974585,Bird,Sleepless,Seaslug,Anemone,Piranha,Anemone,Nimo
+561,11900861,Aquatic,Clear,Nimo,Anemone,Lam,Anemone,Nimo
+562,11982782,Mech,Puppy,Innocent Lamb,Indian Star,Confident,Watermelon,Cottontail
+563,11876303,Beast,Chubby,Pogona,Buzz Buzz,Confident,Dual Blade,Ranchu
+564,11974609,Bird,Sleepless,Inkling,Anemone,Piranha,Anemone,Nimo
+565,11810774,Reptile,Gecko,Small Frill,Green Thorns,Tiny Turtle,Watermelon,Potato Leaf
+566,10524634,Aquatic,Gero,Risky Bird,Anemone,Lam,Anemone,Nimo
+567,11548651,Dawn,Gecko,Early Bird,Green Thorns,Kotaro,Scaly Spoon,Gila
+568,1267729,Reptile,Confused,Swirl,Snail Shell,Tiny Turtle,Lagging,Thorny Caterpillar
+569,11982866,Bird,Confused,Swirl,Garish Worm,Lam,Shoal Star,Nimo
+570,11982878,Dusk,Confused,Swirl,Raven,Mosquito,Bumpy,Twin Tail
+571,11933735,Mech,Sleepless,Puppy,Sandal,Piranha,Oranda,Nimo
+572,11991088,Beast,Chubby,Earwing,Buzz Buzz,Hungry Bird,Arco,Gerbil
+573,11696178,Mech,Gecko,Innocent Lamb,Indian Star,Silence Whisper,Scaly Spoon,Ant
+574,5412915,Aquatic,Gero,Bubblemaker,Goldfish,Catfish,Eggshell,Koi
+575,11679809,Dawn,Little Peas,Innocent Lamb,Tri Feather,Confident,Wing Horn,Cottontail
+576,11974737,Mech,Sleepless,Nimo,Sandal,Piranha,Babylonia,Nimo
+577,10688601,Aquatic,Telescope,Bubblemaker,Sponge,Risky Fish,Incisor,Koi
+578,11786331,Aquatic,Kotaro?,Inkling,Garish Worm,Doubletalk,Parasite,Tadpole
+579,11925604,Aquatic,Sleepless,Nimo,Anemone,Lam,Anemone,Nimo
+580,6633595,Reptile,Clear,Bubblemaker,Snail Shell,Tiny Turtle,Lagging,Thorny Caterpillar
+581,11581583,Dawn,Kotaro?,Earwing,Tri Feather,Kotaro,Kestrel,Granma's Fan
+582,333980,Aquatic,Robin,Inkling,Anemone,Piranha,Anemone,Nimo
+583,11983006,Aquatic,Papi,Nimo,Sandal,Piranha,Babylonia,Nimo
+584,6961360,Aquatic,Sleepless,Bubblemaker,Goldfish,Risky Fish,Dual Blade,Nimo
+585,11868371,Aquatic,Telescope,Nimo,Sandal,Piranha,Babylonia,Nimo
+586,11770067,Bug,Topaz,Innocent Lamb,Spiky Wing,Zigzag,Anemone,Nimo
+587,11819221,Beast,Little Owl,Owl,Furball,Little Owl,Feather Spear,Feather Fan
+588,11778263,Reptile,Neo,Inkling,Ronin,Doubletalk,Oranda,Tadpole
+589,3324123,Beast,Puppy,Owl,Raven,Little Owl,Feather Spear,Feather Fan
+590,9099487,Plant,Little Owl,Rosa,Pumpkin,Serious,Leaf Bug,Carrot
+591,3963112,Reptile,Confused,Bubblemaker,Snail Shell,Square Teeth,Lagging,Thorny Caterpillar
+592,10967295,Plant,Papi,Sakura,Watering Can,Serious,Cactus,Cattail
+593,5380366,Reptile,Gecko,Beetle Spike,Croc,Hungry Bird,Lagging,Thorny Caterpillar
+594,11909401,Reptile,Gecko,Sidebarb,Tri Spikes,Razor Bite,Scaly Spear,Grass Snake
+595,11983138,Mech,Sleepless,Nimo,Sandal,Square Teeth,Trump,Nimo
+596,11901221,Bug,Sleepless,Nimo,Sandal,Axie Kiss,Babylonia,Nimo
+597,11786541,Reptile,Papi,Inkling,Garish Worm,Doubletalk,Parasite,Tadpole
+598,11909422,Reptile,Gecko,Earwing,Tri Spikes,Kotaro,Scaly Spear,Gila
+599,11696435,Dawn,Chubby,Innocent Lamb,Tri Feather,Confident,Wing Horn,Cottontail
+600,11876666,Beast,Little Peas,Belieber,Scarab,Confident,Little Branch,Shiba
+601,11909455,Beast,Kotaro?,Earwing,Tri Feather,Kotaro,Wing Horn,Granma's Fan
+602,11254099,Plant,Cucumber Slice,Lotus,Bidens,Zigzag,Cactus,Hot Butt
+603,11884893,Bug,Topaz,Rosa,Garish Worm,Confident,Babylonia,Nimo
+604,11762017,Mech,Gecko,Innocent Lamb,Timber,Square Teeth,Bumpy,Nimo
+605,11917671,Beast,Zeal,Zen,Jaguar,Piranha,Imp,Cottontail
+606,11884913,Aquatic,Little Peas,Nimo,Sandal,Risky Fish,Shoal Star,Nimo
+607,5765517,Reptile,Lucas,Bubblemaker,Snail Shell,Silence Whisper,Lagging,Thorny Caterpillar
+608,11565456,Reptile,Gecko,Small Frill,Green Thorns,Tiny Turtle,Scaly Spoon,Wall Gecko
+609,11450785,Aquatic,Little Peas,Gill,Ronin,Risky Fish,Oranda,Nimo
+610,2808238,Reptile,Tricky,Curved Spine,Green Thorns,Tiny Turtle,Scaly Spear,Post Fight
+611,11966895,Plant,Gecko,Sidebarb,Buzz Buzz,Kotaro,Scaly Spear,Gila
+612,424368,Aquatic,Clear,Gill,Goldfish,Risky Fish,Clamshell,Koi
+613,10992053,Aquatic,Clear,Nimo,Balloon,Risky Fish,Pocky,Koi
+614,5519803,Aquatic,Gero,Inkling,Goldfish,Risky Fish,Clamshell,Koi
+615,11803074,Reptile,Chubby,Small Frill,Anemone,Razor Bite,Clamshell,Gila
+616,7756239,Reptile,Clear,Bubblemaker,Snail Shell,Tiny Turtle,Lagging,Thorny Caterpillar
+617,4798943,Reptile,Papi,Friezard,Tri Spikes,Tiny Turtle,Cerastes,Tiny Dino
+618,11778533,Reptile,Gecko,Small Frill,Green Thorns,Tiny Turtle,Watermelon,Potato Leaf
+619,9804263,Beast,Confused,Nyan,Hero,Axie Kiss,Dual Blade,Twin Tail
+620,11966952,Dawn,Sleepless,Nimo,Sandal,Square Teeth,Oranda,Nimo
+621,11352556,Reptile,Zeal,Small Frill,Green Thorns,Tiny Turtle,Cerastes,Gila
+622,11991556,Aquatic,Sleepless,Seaslug,Anemone,Doubletalk,Anemone,Nimo
+623,11950606,Aquatic,Little Owl,Owl,Tri Feather,Little Owl,Trump,Feather Fan
+624,11557403,Dusk,Papi,Innocent Lamb,Snail Shell,Tiny Turtle,Rose Bud,Hatsune
+625,4815393,Aquatic,Telescope,Bubblemaker,Tri Feather,Risky Fish,Clamshell,Nimo
+626,11811369,Reptile,Gecko,Small Frill,Green Thorns,Tiny Turtle,Watermelon,Swallow
+627,11967021,Plant,Cucumber Slice,Leaf Bug,Bidens,Confident,Rose Bud,Cattail
+628,11934254,Reptile,Gecko,Small Frill,Green Thorns,Pincer,Oranda,Gila
+629,11967041,Dawn,Sleepless,Nimo,Sandal,Square Teeth,Babylonia,Nimo
+630,11811432,Aquatic,Sleepless,Seaslug,Goldfish,Piranha,Trump,Nimo
+631,3824237,Aquatic,Puppy,Bubblemaker,Goldfish,Catfish,Shoal Star,Koi
+632,11909747,Beast,Chubby,Earwing,Buzz Buzz,Axie Kiss,Arco,Ranchu
+633,11229826,Plant,Cucumber Slice,Clover,Sandal,Serious,Beech,Cattail
+634,11950746,Mech,Sleepless,Nimo,Sandal,Piranha,Babylonia,Nimo
+635,11451037,Reptile,Gecko,Small Frill,Green Thorns,Toothless Bite,Antenna,Yam
+636,11901601,Reptile,Gecko,Sidebarb,Tri Spikes,Kotaro,Scaly Spear,The Last One
+637,11819684,Reptile,Chubby,Small Frill,Green Thorns,Kotaro,Dual Blade,Swallow
+638,11983526,Bird,Kotaro?,Earwing,Tri Feather,Kotaro,Wing Horn,Ranchu
+639,3652278,Aquatic,Telescope,Inkling,Goldfish,Axie Kiss,Anemone,Koi
+640,9689799,Dusk,Clear,Bubblemaker,Snail Shell,Tiny Turtle,Lagging,Thorny Caterpillar
+641,11958987,Plant,Cucumber Slice,Innocent Lamb,Bidens,Silence Whisper,Rose Bud,Cattail
+642,11975394,Dawn,Sleepless,Nimo,Sandal,Silence Whisper,Babylonia,Potato Leaf
+643,11631349,Bird,Mavis,Earwing,Sandal,Lam,Wing Horn,Granma's Fan
+644,11967225,Reptile,Kotaro?,Small Frill,Tri Spikes,Kotaro,Pocky,Iguana
+645,11795210,Reptile,Tricky,Small Frill,Green Thorns,Nut Cracker,Watermelon,Grass Snake
+646,11844364,Reptile,Papi,Leafy,Buzz Buzz,Doubletalk,Bamboo Shoot,Tiny Dino
+647,11885349,Mech,Topaz,Nimo,Sandal,Toothless Bite,Cerastes,Nimo
+648,11680562,Dawn,Little Peas,Innocent Lamb,Tri Feather,Confident,Wing Horn,Cottontail
+649,6069046,Plant,Cucumber Slice,Lotus,Pumpkin,Silence Whisper,Bamboo Shoot,Carrot
+650,11770684,Beast,Zeal,Nut Cracker,Ronin,Confident,Babylonia,Cattail
+651,9354051,Dusk,Clear,Bubblemaker,Snail Shell,Tiny Turtle,Lagging,Thorny Caterpillar
+652,11549519,Plant,Little Peas,Innocent Lamb,Ronin,Confident,Cactus,Cottontail
+653,11901780,Dusk,Gecko,Small Frill,Green Thorns,Tiny Turtle,Oranda,Gila
+654,5077847,Aquatic,Cucumber Slice,Nimo,Goldfish,Risky Fish,Oranda,Nimo
+655,670596,Reptile,Confused,Bubblemaker,Snail Shell,Tiny Turtle,Lagging,Thorny Caterpillar
+656,11934600,Dawn,Papi,Innocent Lamb,Indian Star,Silence Whisper,Leaf Bug,Koi
+657,11361167,Plant,Flower Sunglasses,Seaslug,Pumpkin,Tiny Turtle,Scaly Spear,Snake Jar
+658,11975567,Bird,Kotaro?,Earwing,Tri Feather,Kotaro,Wing Horn,Cloud
+659,727956,Beast,Little Peas,Nut Cracker,Bidens,Nut Cracker,Dual Blade,Nut Cracker
+660,2562969,Bird,Blossom,Nut Cracker,Bone Sail,Nut Cracker,Little Branch,Post Fight
+661,9943978,Plant,Confused,Lotus,Pumpkin,Serious,Cactus,Cattail
+662,1203117,Aquatic,Telescope,Inkling,Goldfish,Risky Fish,Shoal Star,Navaga
+663,11885503,Reptile,Papi,Pogona,Garish Worm,Doubletalk,Parasite,Tadpole
+664,7347142,Aquatic,Clear,Tiny Fan,Goldfish,Risky Fish,Oranda,Koi
+665,5184478,Dusk,Telescope,Pogona,Ronin,Serious,Rose Bud,Cattail
+666,4004830,Plant,Papi,Tassels,Croc,Serious,Rose Bud,Yam
+667,11566051,Beast,Little Peas,Seaslug,Ronin,Axie Kiss,Little Branch,Shiba
+668,5241839,Aquatic,Kotaro?,Bubblemaker,Goldfish,Risky Fish,Clamshell,Koi
+669,8854516,Aquatic,Clear,Nimo,Anemone,Lam,Anemone,Nimo
+670,11942900,Aquatic,Topaz,Innocent Lamb,Timber,Toothless Bite,Bumpy,Nimo
+671,11836434,Beast,Little Peas,Leafy,Hero,Confident,Bamboo Shoot,Shrimp
+672,11951120,Mech,Confused,Innocent Lamb,Scarab,Silence Whisper,Rose Bud,Rice
+673,11787286,Dusk,Papi,Inkling,Anemone,Doubletalk,Parasite,Tadpole
+674,4938787,Plant,Papi,Lotus,Pumpkin,Doubletalk,Cactus,Hot Butt
+675,2636841,Beast,Chubby,Nut Cracker,Sandal,Goda,Imp,Nut Cracker
+676,11656234,Dusk,Blossom,Belieber,Mint,Doubletalk,Dual Blade,Hot Butt
+677,11770928,Bug,Kotaro?,Tiny Fan,Goldfish,Square Teeth,Bumpy,Nimo
+678,11951160,Dawn,Papi,Inkling,Sandal,Silence Whisper,Rose Bud,Pupae
+679,11893819,Aquatic,Kotaro?,Earwing,Tri Feather,Kotaro,Wing Horn,Nimo
+680,11508824,Beast,Chubby,Earwing,Ronin,Toothless Bite,Dual Blade,Cottontail
+681,11967618,Aquatic,Sleepless,Nimo,Sandal,Piranha,Babylonia,Nimo
+682,11959449,Beast,Puppy,Innocent Lamb,Perch,Axie Kiss,Cactus,Wall Gecko
+683,11975834,Dusk,Gecko,Small Frill,Green Thorns,Silence Whisper,Oranda,Grass Snake
+684,11754657,Aquatic,Topaz,Innocent Lamb,Goldfish,Lam,Shoal Star,Nimo
+685,11574436,Reptile,Gecko,Small Frill,Green Thorns,Tiny Turtle,Unko,Yam
+686,11328680,Plant,Papi,Leaf Bug,Bidens,Goda,Scaly Spear,Cattail
+687,11967671,Beast,Kotaro?,Earwing,Tri Feather,Kotaro,Wing Horn,Granma's Fan
+688,11599060,Reptile,Gecko,Small Frill,Green Thorns,Kotaro,Scaly Spoon,Yam
+689,11812064,Reptile,Gecko,Lotus,Green Thorns,Tiny Turtle,Scaly Spoon,Gila
+690,11926779,Bird,Kotaro?,Earwing,Tri Feather,Kotaro,Incisor,Cottontail
+691,7781630,Aquatic,Gero,Inkling,Anemone,Axie Kiss,Anemone,Nimo
+692,11926784,Bug,Kotaro?,Earwing,Tri Feather,Axie Kiss,Wing Horn,Cottontail
+693,11697423,Bug,Robin,Earwing,Tri Feather,Kotaro,Wing Horn,Cottontail
+694,11820313,Dusk,Gecko,Small Frill,Green Thorns,Tiny Turtle,Watermelon,Potato Leaf
+695,7773474,Reptile,Little Peas,Bubblemaker,Snail Shell,Tiny Turtle,Lagging,Thorny Caterpillar
+696,8002856,Aquatic,Gero,Inkling,Anemone,Lam,Anemone,Nimo
+697,11820331,Dusk,Gecko,Small Frill,Green Thorns,Tiny Turtle,Watermelon,Potato Leaf
+698,1252663,Reptile,Tricky,Curly,Tri Spikes,Tiny Turtle,Little Branch,Pupae
+699,11967800,Mech,Sleepless,Nimo,Sandal,Square Teeth,Babylonia,Nimo
+700,11779385,Plant,Gecko,Small Frill,Green Thorns,Tiny Turtle,Watermelon,Potato Leaf
+701,11828563,Reptile,Confused,Small Frill,Green Thorns,Tiny Turtle,Watermelon,Potato Leaf
+702,621908,Reptile,Papi,Ear Breathing,Snail Shell,Tiny Turtle,Lagging,Thorny Caterpillar
+703,11959643,Plant,Gecko,Small Frill,Green Thorns,Herbivore,Watermelon,Yam
+704,11804004,Beast,Chubby,Leafy,Scarab,Nut Cracker,Dual Blade,Nut Cracker
+705,11656553,Beast,Kotaro?,Earwing,Tri Feather,Peace Maker,Wing Horn,Granma's Fan
+706,11713913,Reptile,Gecko,Small Frill,Green Thorns,Tiny Turtle,Watermelon,Grass Snake
+707,6487432,Reptile,Clear,Bubblemaker,Snail Shell,Tiny Turtle,Lagging,Thorny Caterpillar
+708,11869584,Mech,Cucumber Slice,Innocent Lamb,Garish Worm,Square Teeth,Bumpy,Nimo
+709,11722153,Reptile,Gecko,Small Frill,Green Thorns,Tiny Turtle,Dual Blade,Potato Leaf
+710,11926956,Bird,Kotaro?,Earwing,Risky Beast,Kotaro,Wing Horn,Granma's Fan
+711,3374539,Aquatic,Gero,Seaslug,Anemone,Lam,Anemone,Nimo
+712,9518547,Aquatic,Clear,Nimo,Anemone,Goda,Anemone,Nimo
+713,11967965,Reptile,Gecko,Small Frill,Green Thorns,Silence Whisper,Oranda,Grass Snake
+714,11959783,Aquatic,Sleepless,Nimo,Sandal,Square Teeth,Babylonia,Nimo
+715,11722226,Plant,Gecko,Hollow,Shiitake,Tiny Turtle,Watermelon,Potato Leaf
+716,11959806,Mech,Sleepless,Nimo,Sandal,Square Teeth,Babylonia,Koi
+717,11943431,Aquatic,Sleepless,Clover,Sandal,Square Teeth,Babylonia,Nimo
+718,11664939,Mech,Gecko,Small Frill,Green Thorns,Tiny Turtle,Beech,Gila
+719,11959865,Dawn,Nerdy,Nimo,Goldfish,Risky Fish,Clamshell,Nimo
+720,11959866,Dawn,Lucas,Nimo,Goldfish,Kotaro,Shoal Star,Nimo
+721,7700027,Dusk,Topaz,Gill,Garish Worm,Tiny Turtle,Wing Horn,Grass Snake
+722,11615811,Bird,Little Owl,Owl,Cupid,Catfish,Wing Horn,Granma's Fan
+723,11206220,Mech,Chubby,Curly,Risky Beast,Toothless Bite,Dual Blade,Twin Tail
+724,1285711,Aquatic,Topaz,Bubblemaker,Anemone,Toothless Bite,Anemone,Post Fight
+725,11910750,Reptile,Bookworm,Small Frill,Green Thorns,Tiny Turtle,Dual Blade,Potato Leaf
+726,11664994,Bird,Robin,Owl,Tri Feather,Peace Maker,Little Branch,Feather Fan
+727,7806565,Reptile,Scar,Tiny Fan,Snail Shell,Tiny Turtle,Lagging,Thorny Caterpillar
+728,9969270,Aquatic,Gero,Nimo,Anemone,Lam,Anemone,Nimo
+729,11984503,Beast,Puppy,Zen,Ronin,Confident,Imp,Shiba
+730,11984504,Beast,Puppy,Zen,Ronin,Confident,Imp,Shiba
+731,9428630,Aquatic,Gero,Inkling,Goldfish,Risky Fish,Clamshell,Nimo
+732,11837103,Reptile,Gecko,Small Frill,Green Thorns,Tiny Turtle,Cerastes,Thorny Caterpillar
+733,11894452,Beast,Chubby,Curly,Buzz Buzz,Goda,Dual Blade,Gerbil
+734,11869911,Bug,Gecko,Small Frill,Green Thorns,Mosquito,Dual Blade,Cottontail
+735,7855833,Plant,Papi,Clover,Pumpkin,Serious,Leaf Bug,Hot Butt
+736,11992825,Plant,Cucumber Slice,Innocent Lamb,Bidens,Risky Fish,Rose Bud,Hatsune
+737,11648762,Bird,Mavis,Earwing,Tri Feather,Herbivore,Wing Horn,Granma's Fan
+738,6414073,Aquatic,Clear,Bubblemaker,Anemone,Lam,Anemone,Nimo
+739,11902729,Aquatic,Sleepless,Nimo,Sandal,Piranha,Babylonia,Nimo
+740,663308,Aquatic,Sleepless,Nimo,Goldfish,Risky Fish,Cerastes,Koi
+741,11681553,Beast,Chubby,Hollow,Tri Feather,Piranha,Wing Horn,Granma's Fan
+742,11919149,Dawn,Kotaro?,Earwing,Tri Feather,Kotaro,Wing Horn,Ranchu
+743,8593218,Aquatic,Gero,Inkling,Anemone,Lam,Anemone,Nimo
+744,11394892,Reptile,Tricky,Nyan,Indian Star,Tiny Turtle,Scaly Spoon,The Last One
+745,11616077,Reptile,Gecko,Small Frill,Tri Spikes,Razor Bite,Scaly Spear,Wall Gecko
+746,11894608,Bird,Robin,Earwing,Tri Feather,Toothless Bite,Wing Horn,Shiba
+747,11976543,Bird,Kotaro?,Pink Cheek,Tri Feather,Kotaro,Wing Horn,Ranchu
+748,8568675,Aquatic,Gero,Nimo,Anemone,Goda,Anemone,Nimo
+749,2817908,Plant,Papi,Lotus,Pumpkin,Silence Whisper,Watermelon,Carrot
+750,11837302,Bug,Little Peas,Leafy,Bidens,Serious,Bamboo Shoot,Cottontail
+751,8445822,Aquatic,Gero,Bubblemaker,Snail Shell,Goda,Anemone,Nimo
+752,11698051,Mech,Kotaro?,Earwing,Tri Feather,Confident,Wing Horn,Shrimp
+753,11886473,Mech,Sleepless,Clover,Sandal,Piranha,Pliers,Nimo
+754,11837338,Reptile,Gecko,Small Frill,Green Thorns,Tiny Turtle,Cerastes,Gila
+755,11960223,Reptile,Gecko,Friezard,Green Thorns,Tiny Turtle,Oranda,Gila
+756,3645350,Mech,Little Peas,Seaslug,Scarab,Tiny Turtle,Little Branch,Cottontail
+757,11640741,Dawn,Mavis,Earwing,Tri Feather,Herbivore,Wing Horn,Granma's Fan
+758,11927465,Beast,Chubby,Earwing,Risky Beast,Axie Kiss,Arco,Granma's Fan
+759,8576944,Aquatic,Telescope,Bubblemaker,Anemone,Lam,Anemone,Nimo
+760,11673539,Bug,Kotaro?,Earwing,Tri Feather,Little Owl,Kestrel,Ant
+761,11968452,Dawn,Clear,Nimo,Sponge,Zigzag,Oranda,Nimo
+762,8216526,Aquatic,Gero,Nimo,Anemone,Piranha,Anemone,Nimo
+763,7888856,Reptile,Gecko,Friezard,Green Thorns,Tiny Turtle,Shoal Star,Tiny Dino
+764,1073124,Mech,Chubby,Nyan,Croc,Square Teeth,Imp,Gerbil
+765,11902949,Bird,Bookworm,Leafy,Buzz Buzz,Toothless Bite,Bamboo Shoot,Ranchu
+766,11911143,Mech,Sleepless,Nimo,Sandal,Little Owl,Babylonia,Nimo
+767,11608052,Mech,Robin,Sidebarb,Anemone,Tiny Turtle,Anemone,Nimo
