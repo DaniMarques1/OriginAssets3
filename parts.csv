@@ -49104,21 +49104,43 @@
 9,7478575,Plant,Chubby,Leafy,Green Thorns,Serious,Bamboo Shoot,Carrot
 0,1990924,Plant,Confused,Rosa,Shiitake,Doubletalk,Watermelon,Cottontail
 1,11928474,Bird,Nerdy,Leafy,Buzz Buzz,Square Teeth,Bamboo Shoot,Ranchu
-2,11699442,Dusk,Neo,Inkling,Raven,Doubletalk,Parasite,Cottontail
-3,10086300,Dusk,Robin,Pink Cheek,Snail Shell,Cute Bunny,Antenna,Granma's Fan
-4,11700222,Bug,Neo,Inkling,Raven,Doubletalk,Parasite,Tadpole
-5,11586325,Bird,Kotaro?,Earwing,Tri Feather,Hungry Bird,Kestrel,Granma's Fan
-6,11889910,Mech,Nerdy,Leafy,Buzz Buzz,Piranha,Bamboo Shoot,Nimo
-7,11865411,Reptile,Chubby,Small Frill,Green Thorns,Razor Bite,Dual Blade,Tiny Dino
-8,11693397,Dusk,Topaz,Innocent Lamb,Tri Feather,Confident,Wing Horn,Pupae
-9,11612939,Dawn,Kotaro?,Earwing,Tri Feather,Peace Maker,Kestrel,Feather Fan
-10,11695144,Dusk,Papi,Inkling,Garish Worm,Doubletalk,Anemone,Tadpole
-11,11728101,Bug,Neo,Inkling,Raven,Doubletalk,Parasite,Tadpole
-12,7403738,Bird,Mavis,Curly,Tri Feather,Peace Maker,Wing Horn,Granma's Fan
-13,11623151,Dawn,Mavis,Earwing,Tri Feather,Little Owl,Eggshell,Granma's Fan
-14,12000279,Bird,Kotaro?,Earwing,Tri Feather,Kotaro,Wing Horn,Yam
-15,11361372,Bird,Mavis,Risky Bird,Raven,Nut Cracker,Eggshell,Cotton Candy
-16,11918785,Bird,Clear,Leafy,Buzz Buzz,Square Teeth,Bamboo Shoot,Nimo
-17,114160,Plant,Confused,Peace Maker,Pigeon Post,Geisha,Bamboo Shoot,Gravel Ant
-18,11681471,Dusk,Mavis,Earwing,Timber,Kotaro,Eggshell,Granma's Fan
-19,450257,Plant,Papi,Rosa,Mint,Herbivore,Rose Bud,Carrot
+2,11813927,Reptile,Chubby,Small Frill,Green Thorns,Razor Bite,Dual Blade,Potato Leaf
+3,11699442,Dusk,Neo,Inkling,Raven,Doubletalk,Parasite,Cottontail
+4,9028893,Bird,Mavis,Peace Maker,Balloon,Little Owl,Eggshell,Feather Fan
+5,3368245,Plant,Papi,Lotus,Cupid,Hungry Bird,Eggshell,Carrot
+6,11700222,Bug,Neo,Inkling,Raven,Doubletalk,Parasite,Tadpole
+7,11586325,Bird,Kotaro?,Earwing,Tri Feather,Hungry Bird,Kestrel,Granma's Fan
+8,4311918,Bird,Mavis,Peace Maker,Cupid,Little Owl,Eggshell,The Last One
+9,6441858,Bird,Mavis,Peace Maker,Cupid,Nut Cracker,Eggshell,Feather Fan
+10,11889910,Mech,Nerdy,Leafy,Buzz Buzz,Piranha,Bamboo Shoot,Nimo
+11,11865411,Reptile,Chubby,Small Frill,Green Thorns,Razor Bite,Dual Blade,Tiny Dino
+12,11693397,Dusk,Topaz,Innocent Lamb,Tri Feather,Confident,Wing Horn,Pupae
+13,11612939,Dawn,Kotaro?,Earwing,Tri Feather,Peace Maker,Kestrel,Feather Fan
+14,11695144,Dusk,Papi,Inkling,Garish Worm,Doubletalk,Anemone,Tadpole
+15,11728101,Bug,Neo,Inkling,Raven,Doubletalk,Parasite,Tadpole
+16,11474232,Reptile,Cucumber Slice,Tiny Fan,Tri Feather,Kotaro,Scaly Spoon,Tiny Dino
+17,7403738,Bird,Mavis,Curly,Tri Feather,Peace Maker,Wing Horn,Granma's Fan
+18,11623151,Dawn,Mavis,Earwing,Tri Feather,Little Owl,Eggshell,Granma's Fan
+19,12000279,Bird,Kotaro?,Earwing,Tri Feather,Kotaro,Wing Horn,Yam
+20,11361372,Bird,Mavis,Risky Bird,Raven,Nut Cracker,Eggshell,Cotton Candy
+21,11918785,Bird,Clear,Leafy,Buzz Buzz,Square Teeth,Bamboo Shoot,Nimo
+22,114160,Plant,Confused,Peace Maker,Pigeon Post,Geisha,Bamboo Shoot,Gravel Ant
+23,11681471,Dusk,Mavis,Earwing,Timber,Kotaro,Eggshell,Granma's Fan
+24,450257,Plant,Papi,Rosa,Mint,Herbivore,Rose Bud,Carrot
+25,11870207,Aquatic,Mavis,Leafy,Buzz Buzz,Square Teeth,Bamboo Shoot,Nimo
+0,9191469,Dusk,Mavis,Zen,Goldfish,Silence Whisper,Lagging,Thorny Caterpillar
+1,11756466,Dusk,Papi,Inkling,Garish Worm,Doubletalk,Parasite,Tadpole
+2,771022,Bird,Mavis,Early Bird,Croc,Kotaro,Eggshell,Navaga
+3,2107018,Aquatic,Telescope,Inkling,Furball,Confident,Shoal Star,Ranchu
+4,11765515,Dusk,Neo,Inkling,Raven,Doubletalk,Shoal Star,Cottontail
+5,11872705,Dusk,Papi,Inkling,Raven,Goda,Parasite,Tadpole
+6,11398233,Aquatic,Flower Sunglasses,Pink Cheek,Ronin,Confident,Bamboo Shoot,Yam
+7,11988647,Plant,Nerdy,Hollow,Shiitake,Toothless Bite,Strawberry Shortcake,Ant
+8,11883344,Reptile,Papi,Inkling,Garish Worm,Goda,Parasite,Tadpole
+9,11785195,Dusk,Neo,Inkling,Raven,Goda,Parasite,Cottontail
+10,4297822,Bird,Mavis,Tiny Fan,Cupid,Peace Maker,Trump,The Last One
+11,177263,Bird,Mavis,Peace Maker,Raven,Peace Maker,Kestrel,The Last One
+12,11474680,Beast,Little Peas,Nut Cracker,Blue Moon,Nut Cracker,Little Branch,Nut Cracker
+13,11885044,Beast,Puppy,Innocent Lamb,Perch,Confident,Dual Blade,Wall Gecko
+14,11377318,Aquatic,Telescope,Inkling,Raven,Herbivore,Strawberry Ice Cream,Koi
+15,6217694,Dusk,Mavis,Risky Bird,Snail Shell,Kotaro,Lagging,Thorny Caterpillar
